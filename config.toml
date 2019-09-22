@@ -1,6 +1,8 @@
 baseURL = "https://whirlwind.netlify.com"
 languageCode = "en-us"
 title = "From the Whirlwind"
-featured_image = "/images/tornado.jpg"
 theme = "ananke"
 sectionPagesMenu = "main"
+
+[params]
+  featured_image = "/images/tornado.jpg"
