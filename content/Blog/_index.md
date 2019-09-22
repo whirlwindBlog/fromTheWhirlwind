@@ -1,6 +1,4 @@
 ---
-title: "About"
-description: ""
 featured_image: "/images/tornado.jpg"
 ---
 
