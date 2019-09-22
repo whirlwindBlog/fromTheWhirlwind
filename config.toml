@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "whirlwind.netlify.com"
 languageCode = "en-us"
 title = "From the Whirlwind"
 theme = "ananke"
