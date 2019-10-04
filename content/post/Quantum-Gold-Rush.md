@@ -10,7 +10,8 @@ It's interesting, and the supplementary material provides a chronology of VC dea
 
 One particular portion stood out to me [bold is my emphasis]:
 
-<p>  From the perspective of investors, the cash pumped into the field annually represents a small outlay so far — on a par with VC investments in artificial-intelligence (AI) firms before 2010, for instance. (By 2018, US VC investments in AI had boomed to $9.3 billion.) Still, these numbers are substantial for an immature field that doesn’t yet have much to sell. *Despite this, some software firms are already marketing their work on quantum algorithms, which are written for hardware that does not yet exist.* </p>
+<blockquote><p>  From the perspective of investors, the cash pumped into the field annually represents a small outlay so far — on a par with VC investments in artificial-intelligence (AI) firms before 2010, for instance. (By 2018, US VC investments in AI had boomed to $9.3 billion.) Still, these numbers are substantial for an immature field that doesn’t yet have much to sell. <strong>Despite this, some software firms are already marketing their work on quantum algorithms, which are written for hardware that does not yet exist.</strong>
+</p></blockquote>
 
 The proliferation of quantum computing software startups has been totally baffling to me. Some, like QCTRL, I understand. There is real benefit, real utility to providing noise mitigating control systems. This is a substantial effort, but at least both superconducting and trapped ion qubits are both controlled by photons. The protocols are the same, even if the implementation is slightly different.
 
