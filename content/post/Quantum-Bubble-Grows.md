@@ -1,8 +1,7 @@
 ---
 title: "The Quantum Bubble Grows"
-date: 2019-10-12
-draft: true
-markup: mmark
+date: 2019-10-13
+draft: false
 ---
 
 Two new startups have joined the quantum world, <a href="https://techcrunch.com/2019/10/11/rahko-raises-1-3m-seed-from-balderton-for-quantum-machine-learning-tech/">Rahko</a>  and <a href="https://www.hpcwire.com/off-the-wire/quantum-computing-startups-q-ctrl-and-bleximo-enter-global-partnership/">Bleximo</a>. They focus on quantum machine learning, and 'practical' quantum computers for quantum simulation, respectively.
