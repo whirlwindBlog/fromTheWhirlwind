@@ -1,7 +1,7 @@
 ---
 title: "When Winter Comes"
 date: 2019-10-15
-draft: True
+draft: true
 ---
 
 -VCs and private industry (Google, IBM) are funding a lot of quantum computation efforts.
