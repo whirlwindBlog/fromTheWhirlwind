@@ -20,7 +20,7 @@ What's the point of the grad school curriculum?
 2. Introduce advanced mathematical techniques in the fields where they are most prevalent
 3. By 1. and 2. create a common cultural foundation among physicists.
 
-
+In this framework there's still room for modernization. The whole physics curriculum can be redone to focus much more on numerical techniques, now that computational power is cheap and ubiquitous. 
 
 
 
