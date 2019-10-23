@@ -11,6 +11,8 @@ Activity in the quantum sphere continues this week with a <a href="https://www.h
 
 ## HQS
 
+
+
 - no specification of architecture, type of QC, etc
 - is this just a way to turn VCs into defacto funding agencies for basic science work?
 - The alternative is post-doc hell and maybe a tenure track position
