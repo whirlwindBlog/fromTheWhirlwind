@@ -1,7 +1,7 @@
 ---
 title: "More Quantum Computing Deals: HQS and IonQ"
 date: 2019-11-10
-draft: true
+draft: false
 ---
 
 Activity in the quantum sphere continues with a <a href="https://www.hpcwire.com/off-the-wire/hqs-quantum-simulations-closes-2-6m-seed-financing-round/"> seed round</a> concluded for <a href="https://quantumsimulations.de/"> HQS Quantum Simulations</a>. HQS claims to be "developing quantum algorithms to predict molecular properties for performance materials, specialty chemicals and pharmaceutical companies".
