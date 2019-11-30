@@ -2,6 +2,7 @@
 title: "Quantum Computing with Optical Traps"
 date: 2019-11-24
 draft: true
+mathjax: true
 ---
 
 
@@ -12,4 +13,4 @@ You'll notice that the website is characteristically sparse, with little informa
 
 The best part of this start-up website is the <a href="https://www.quera-computing.com/technology"> Technology </a> page, which is basically a one-sentence description of the tech with 9 or so citations to either peer-reviewed publications or arXiv preprints. Dope.
 
-The Qubits: `$^{87}Rb$`, the workhorse of the cold-atom world. Manufactured by Nature to be effectively indistinguishable, the prospective Quantum Information Scientist need not concern herself with fabrication variations of rubidium, she need only find a reliable Rb source.
+The Qubits: <div>$^{87}Rb$</div>, the workhorse of the cold-atom world. Manufactured by Nature to be effectively indistinguishable, the prospective Quantum Information Scientist need not concern herself with fabrication variations of rubidium, she need only find a reliable Rb source.
