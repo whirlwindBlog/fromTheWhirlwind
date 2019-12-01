@@ -11,7 +11,7 @@ It has been some time since my last post, but Quantum Computing is not standing 
 You'll notice that the website is characteristically sparse, with little information about the team, aside from their names. We do know they're hiring for a number of positions including "Special Effects coordinator and Mike Wahlberg stunt double' as of 11/30/2019. At this point I can't tell whether someone misspelled Mark Wahlberg's name, or whether there some famous optical trap/cold atom physicist named Mike Wahlberg. Based on the state of the world in general, I think the probability of the latter scenario is low, but, shockingly, non-zero.
 
 
-<img src="/static/images/MikeWahlberg.jpg" style="width:50%" />
+<img src="/static/images/MikeWahlberg.png" style="width:50%" />
 
 The best part of QuEra's site is the <a href="https://www.quera-computing.com/technology">Technology </a> page, which is basically a one-sentence description of the tech with 9 or so citations to either peer-reviewed publications or arXiv preprints. Dope.
 
