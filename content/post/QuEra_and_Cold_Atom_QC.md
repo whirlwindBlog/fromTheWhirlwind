@@ -1,8 +1,7 @@
 ---
 title: "Quantum Computing with Optical Traps"
-date: 2019-11-24
-draft: true
-mathjax: true
+date: 2019-12-01
+draft: false
 ---
 
 
