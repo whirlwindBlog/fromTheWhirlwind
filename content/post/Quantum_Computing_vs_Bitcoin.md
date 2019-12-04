@@ -1,7 +1,7 @@
 ---
-title: "Quantum Computing and Bitcoin"
-date: 2019-12-02
-draft: true
+title: "Quantum Computing vs Bitcoin"
+date: 2019-12-03
+draft: false
 ---
 
 Ever since Google's quantum supremacy leak, my daily QC alerts feature at least one article about whether your Bitcoin, Ethereum, etc is suddenly in danger due to _~*QuANtuM*~_. Mostly this has been amusing, and until now I have resisted clicking on the links to such articles, but eventually I caved. I, of course, immediately regretted doing so, but you know what they say, "What has been seen cannot be unseen."
