@@ -16,7 +16,8 @@ In short, the failure of American society to build its way out of the current cr
 
 I'm not sure that I'm necessarily in full agreement with the arguments presented in the works linked above, but I am in full agreement with the spirit. We have to create the better future we crave, and I can guarantee it sure as heck isn't going to be built solely on apps.
 
-##A Vision of the Future
+<h2>A Vision of the Future</h2>
+
 One of the best parts of working in quantum computing is the sense of being a part of something important. All of us are playing a role in making a fundamentally different type of computation possible for humanity. We are making a component of the Glorious Science Fiction Future!
 
 To what end do we labor so intensely? Esteemed scholars will tell you that the many of the future uses of quantum computing are impossible to predict, since the field is so young. I consider this to be a feature which preserves some meaning in the work. If learned today that universal quantum computing would end up ONLY being useful for factoring large primes and helping John Q. Moneybags over at Goldman Sachs to better optimize his portfolio, there's a decent chance I wouldn't be going in to work tomorrow.
@@ -27,7 +28,8 @@ To this end, I think the lofty goals of the biggest actors are an encouraging si
 
 One of the ways we will know that the field is in trouble is by shifting goalposts that radically lessen the scope of the accomplishments we expect, as well as a reduction in truly impactful work that pushes the field forward. The difference will be between incremental advances that take us forward as a community, vs incremental work that is necessarily described as an advancement, but is really just an irrelevant detour.
 
-##Quantum Institutions
+<h2>Quantum Institutions</h2>
+
 I've argued that we, as a community, still have the Vision required to build a Quantum Future. What about Institutions? The pieces I linked at the start of this post give great weight to appropriate and functional institutions as a sine qua non of Building.
 
 Here, too, I think we are in relatively good shape. There are strong, and functional institutions across the Public - Private and Academic - Industrial spectrum, and one often gives rise to the other.
@@ -46,7 +48,8 @@ It's also clear that private funding institutions (read: VCs) are extremely inte
 
 Indeed, the availability of VC funding might be too great, allowing for the <a href="https://whirlwind.netlify.app/post/quantum-gold-rush/">proliferation of quantum software startups of dubious value</a>. When many of these turn out to be vapor-ware, investors will remember and will doubtless hesitate to make similar investments into such companies when the timing is right.
 
-##Where are we now?
+<h2>Where are we now?</h2>
+
 The quantum computing field has institutions which produce capable, motivated, and ambitious scientists. These people are the raw material required to imagine a Quantum Future, inspire others to imagine the same, and work to build it. The project is a long term one, with vague path to success whose details. While the public and private funding institutions continue to share our belief in the work, I think we will continue to see progress. As a community, we need to be able to provide a compelling, honest vision of where we're going. We also need to police the boasters, liars, bullshitters, and hustlers who will soak up millions of dollars to deliver nothing, thereby eroding trust in our community and overshadowing its considerable accomplishments.
 
 Right now, quantum computing, and quantum information sciences in general occupy a particularly advantageous position politically, socially, and technologically. The environment is ripe for Building something important (meaningful, even?), we must not squander our moment.    
