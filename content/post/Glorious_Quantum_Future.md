@@ -6,6 +6,9 @@ draft: false
 
 UPDATE (06/22/2020): When I posted this originally I forget a small additional point I wanted to make regarding 'full stack' quantum experiences on the cloud (Amazon's Braket, Microsoft's cloud quantum, etc) and so have added in a mention about that at the end.
 
+------------------------------------
+
+
 Not too long ago, Marc Andreessen wrote an article titled <a href="https://a16z.com/2020/04/18/its-time-to-build/">IT'S TIME TO BUILD</a>. Inspired in part by the inexcusably poor American government (federal, state, and local) response to the public health crisis brought on by the virus SARS-CoV-2 and its attendant disease, COVID-19, the piece decries the American drift away from building our way out of problems to a better future. I have a multitude several reactions and responses, including but not limited to:
 
  Isaac Wilkes' piece in Palladium, <a href="https://palladiummag.com/2020/04/30/its-time-to-build-for-good/">It's Time to Build for Good</a>, arguing that the desire/willingness to build is itself political and requires positive political goals.
