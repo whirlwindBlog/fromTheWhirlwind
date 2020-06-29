@@ -7,4 +7,4 @@ sectionPagesMenu = "main"
 [params]
   featured_image = "/images/tornado.jpg"
   enableRobotsTXT = true
-  custom_css = ["css/custom.css"]
+  custom_css = ["dist/css/custom.css"]
