@@ -2,31 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>book club on From the Whirlwind</title>
-    <link>/tags/book-club/</link>
+    <link>https://whirlwind.netlify.com/tags/book-club/</link>
     <description>Recent content in book club on From the Whirlwind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="/tags/book-club/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://whirlwind.netlify.com/tags/book-club/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Quantum Non-Locality and Relativity: Chapter 1</title>
-      <link>/post/draft_quantum_nonlocality_relativity_chapter1/</link>
-      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/draft_quantum_nonlocality_relativity_chapter1/</guid>
-      <description>Introduction The book opens with an introduction that teases us with some of the ideas that will be developed later on. We start with a statement of Bell’s theorem:
- …observable correlations between [entangled] particles could not be accounted for by any theory which attributes only locally defined physical states to them. The particles appear to be ‘connected’ or “in communication” no matter how distantly separated they may become. The outcome of experiments performed on one member of the pair appears to depend not just on that member’s own intrinsic physical state, but also on the result of the experiments carried out on its twin.</description>
-    </item>
     
     <item>
       <title>The Whirlwind Book Club</title>
-      <link>/post/whirlwind_book_club/</link>
+      <link>https://whirlwind.netlify.com/post/whirlwind_book_club/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/whirlwind_book_club/</guid>
+      <guid>https://whirlwind.netlify.com/post/whirlwind_book_club/</guid>
       <description>Sometime between the end of grad school and now, I stopped reading fiction. My reading was almost exclusively science fiction/fantasy, and I&amp;rsquo;d get through at least 6 books a year, often much more. At some point, though, I stopped being excited by the genre. Or, at least, stopped being excited enough to spend time on works of unknown quality. I had been replacing some of that reading with non-fiction, mostly histories.</description>
     </item>
     
