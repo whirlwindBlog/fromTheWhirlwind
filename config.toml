@@ -1,7 +1,7 @@
 baseURL = "https://whirlwind.netlify.com"
 languageCode = "en-us"
 title = "From the Whirlwind"
-theme = "hugo-tanka"
+theme = "hugo-xmin"
 
 
 googleAnalytics = ""
