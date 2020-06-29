@@ -3,86 +3,141 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://whirlwind.netlify.com/tags/book-club/</loc>
+    <loc>/tags/book-club/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/quantum-non-locality-and-relativity/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/draft_quantum_nonlocality_relativity_chapter1/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/whirlwind_book_club/</loc>
     <lastmod>2020-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+    <loc>/tags/doing-science/</loc>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+    <loc>/post/draft_peer_review/</loc>
+    <lastmod>2020-06-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/tags/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://whirlwind.netlify.com/post/whirlwind_book_club/</loc>
-    <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://whirlwind.netlify.com/post/quantum_winter_insurance/</loc>
+    <loc>/post/quantum_winter_insurance/</loc>
     <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/glorious_quantum_future/</loc>
+    <loc>/post/glorious_quantum_future/</loc>
     <lastmod>2020-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/materials_revisited/</loc>
+    <loc>/post/draft_quantum_roadmaps_indopac/</loc>
+    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/draft_dear_john/</loc>
+    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/materials_revisited/</loc>
     <lastmod>2020-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/quantum_computing_vs_bitcoin/</loc>
+    <loc>/post/quantum_computing_vs_bitcoin/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/quera_and_cold_atom_qc/</loc>
+    <loc>/post/quera_and_cold_atom_qc/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/more-deals-hqs-ionq/</loc>
+    <loc>/post/more-deals-hqs-ionq/</loc>
     <lastmod>2019-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/physics-phd-education/</loc>
+    <loc>/post/draft-one-million-qubits/</loc>
+    <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/physics-phd-education/</loc>
     <lastmod>2019-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/quantum-bubble-grows/</loc>
+    <loc>/post/draft_cost-of-qubit/</loc>
+    <lastmod>2019-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/draft_after-winter/</loc>
+    <lastmod>2019-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/quantum-bubble-grows/</loc>
     <lastmod>2019-10-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/quantum-gold-rush/</loc>
+    <loc>/post/quantum-gold-rush/</loc>
     <lastmod>2019-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/post/value-of-quantum-comms/</loc>
+    <loc>/post/draft_quantum-supr-eh-macy/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/draft_what-to-do-with-a-quantum-computer/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/value-of-quantum-comms/</loc>
     <lastmod>2019-09-22T12:05:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://whirlwind.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

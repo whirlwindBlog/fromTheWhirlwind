@@ -2,21 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on From the Whirlwind</title>
-    <link>https://whirlwind.netlify.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on From the Whirlwind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://whirlwind.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>book club</title>
-      <link>https://whirlwind.netlify.com/tags/book-club/</link>
-      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      <link>/tags/book-club/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://whirlwind.netlify.com/tags/book-club/</guid>
+      <guid>/tags/book-club/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Non-Locality and Relativity</title>
+      <link>/tags/quantum-non-locality-and-relativity/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quantum-non-locality-and-relativity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>doing science</title>
+      <link>/tags/doing-science/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/doing-science/</guid>
       <description></description>
     </item>
     
