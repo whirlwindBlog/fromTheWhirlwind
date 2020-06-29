@@ -1,9 +1,35 @@
 baseURL = "https://whirlwind.netlify.com"
 languageCode = "en-us"
 title = "From the Whirlwind"
-theme = "hugo-xmin"
+theme = "hugo-tanka"
 sectionPagesMenu = "main"
+
+
+googleAnalytics = ""
+disqusShortname = ""
+disable_mathjax = false
+
+pygmentsstyle      = "vs"
+pygmentscodefences = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 
 [params]
   featured_image = "/images/tornado.jpg"
   enableRobotsTXT = true
+  sitename = "From the Whirlwind"
+
+
+[[menu.main]]
+    name = "Home"
+    url = "https://whirlwind.netlify.app"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "https://whirlwind.netlify.app/about"
+    weight = 2
+[[menu.main]]
+    name = "Posts"
+    url = "https://whirlwind.netlify.app/post"
+    weight = 3
