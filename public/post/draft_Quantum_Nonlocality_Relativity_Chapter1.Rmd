@@ -1,0 +1,68 @@
+---
+title: 'Quantum Non-Locality and Relativity: Chapter 1'
+author: 'Whirl'
+date: '2020-06-29'
+tags:
+  - book club
+  - Quantum Non-Locality and Relativity
+draft: yes
+---
+
+## Introduction
+
+The book opens with an introduction that teases us with some of the ideas that will be developed later on. We start with a statement of Bell's theorem:
+
+> ...observable correlations between [entangled] particles could not be accounted for by any theory which attributes only locally defined physical states to them. The particles appear to be 'connected' or "in communication" no matter how distantly separated they may become. The outcome of experiments performed on one member of the pair appears to depend not just on that member's own intrinsic physical state, but also on the result of the experiments carried out on its twin.
+
+Of course, the results described above are in tension with the theory of Relativity, we all know that. Maudlin goes on to point out that the constraints of Relativity are both well understood in that "things" are not permitted to travel faster than light. What those _things_ are is up for debate. He distinguishes the candidates:
+
+- Matter or energy cannot be transported faster than light
+- Signals cannot be sent faster than light
+- Causal processes cannot propagate faster than light
+- Information cannot be transmitted faster than light
+
+These are not necessarily equivalent, which I think I agree with. For example, one could imagine sending matter/energy faster than light but only if it has no information content. This requires two of the rules state above. I would consider Signals and Information to be the same thing, but perhaps they are specific terms of art?
+
+More interestingly, Maudlin then brings up another interpretation of Relativity that I don't think I've encountered:
+
+- Theories must be Lorentz invariant
+
+And points out that Lorentz invariant theories don't forbid anything in the four-item list above. Are there really people who claim that Relativity only requires that all theories are Lorentz invariant? I always thought of Lorentz invariance as a property that relativistic theories have as a consequence of the stronger prohibitions against superluminal causality and superluminal matter/energy/signals propagation.
+
+Regardless, we are promised that each of the prohibitions above, their justifications, and their relations to each other will be discussed later in the book.
+
+The last (most important?) part of the Introduction is in its only footnote. Maudlin points out that this book requires only the assumption that _something_ in the universe picks out the results we measure vs all other possibilities. He notes that this permits basically all major interpretations of quantum mechanics except for Everett's Many Worlds Interpretation (MWI) and something called "many minds".
+
+Amusingly, he asserts that the MWI is 'incoherent' because it does not yield probabilities when branches split. I've seen proponents of MWI assert with just as much conviction that it is the 'obviously' correct interpretation. I plan on returning to MWI by reading the source material in some later post.
+
+So that's the introduction. We are told that there are some empirically validated results in quantum mechanics that seem to violate some physical prohibitions imposed on us by Relativity. Except it turns out maybe we're not quite sure what Relativity really is prohibiting at all?
+
+With that set-up, we move on to chapter 1: Bell's Theorem.
+
+## Chapter 1: Bell's theorem
+
+The chapter opens with an excerpt of a letter from Albert Einstein to Max Born that basically boils down to Einstein arguing that "things" are "real" and also "separate". Without such distinctions between "real" and "separate" "things", physical thinking (thinking about physics) would not be possible.
+
+I found myself agreeing that _things_ are indeed _real_ and _separate_, but am worried that we are maybe in for a nasty surprise. Perhaps _things_ are not _real_? Or worse, not _separate_?
+
+The rest of the chapter lays out a simplified version of Bell's result, then an increasingly refined series of thought experiments where you and a friend play the role of entangled photons emitted by a Ca^+ ion.
+
+In these thought experiments, we seek to reproduce the behavior of a real Ca^+ ion and its emitted photons. In the real thing, the calcium ion emits two photons simultaneously toward two different polarizers. The polarizer orientations are selected at random from a limited set of angles, 0, 30, and 60 degrees. Behind each polarizer is a photon detector so we can measure whether a photon passed through, or was absorbed by the polarizer. What quantum mechanics tells us is that the probability of _both_ detectors measuring a photon is a simple function of the difference in polarization angle between the polarizers. If $\theta_1$ is the angle of the first polarizer, and $\theta_2$ is the angle of the second polarizer, then we can define $\alpha = \theta_1 - \theta_2$. The probability of both detectors measuring a photons is then just $P = \cos^2\left(\alpha\right)$.
+
+{{ < figure src="/test.png" width="40%" > }}
+
+To set up the thought experiment, you and a friend are in a room with two doors. You will each exit through a door and be presented with a piece of paper that reads "0?", "30?", or "60?". Each of you will then answer with "Pass" or "Absorb". The goal is that your answers must agree with a probability given by $cos^2(\alpha)$ as well. The only restriction is that once you leave the room, you may not communicate with your friend. You're allowed to pre-agree on a strategy, flip coins, etc. Once you answer, you are allowed back in the original room and may once again converse with your friend and run the experiment again.
+
+In order to agree with quantum mechanics, your answers must adhere to three conditions:
+
+- describe Ca^+ experiments
+  - Curve of P vs polarizer relative angle
+- describe humans as photons thought experiment
+- generalize to Bell's result
+- Better experiment: GHZ violates Bell inequalities *every* time, not just on average over many experiments. This was demonstrated after the first publishing of this book, I think. Not sure why not updated. GHZ picture
+- Some details of the Aspect experiment (well separated detectors, random choice of polarization, choose polarization as late as possible)
+
+- What is weird?
+  - 1. No attenuation to effect
+  - 2. Very specifically targeted
+  - 3. Instantaneous (most disturbing)

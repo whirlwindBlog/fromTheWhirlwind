@@ -1,7 +1,7 @@
 baseURL = "https://whirlwind.netlify.com"
 languageCode = "en-us"
 title = "From the Whirlwind"
-theme = "ananke"
+theme = "hugo-xmin"
 sectionPagesMenu = "main"
 
 [params]

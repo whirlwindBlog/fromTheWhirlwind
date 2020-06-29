@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>doing science on From the Whirlwind</title>
+    <link>/tags/doing-science/</link>
+    <description>Recent content in doing science on From the Whirlwind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="/tags/doing-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reviewing Peer Review</title>
+      <link>/post/draft_peer_review/</link>
+      <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/draft_peer_review/</guid>
+      <description>I was once asked to a review a paper on classical (digital) superconducting electronics. I&amp;rsquo;m not really an expert on that kind of thing, but I know enough to be dangerous. After reading the paper I couldn&amp;rsquo;t detect any obvious flaws. I didn&amp;rsquo;t have access to their data, so clearly I couldn&amp;rsquo;t check that they actually got the results they claimed, but I could check consistency between tables and figures, words and figures, and so on.</description>
+    </item>
+    
+  </channel>
+</rss>

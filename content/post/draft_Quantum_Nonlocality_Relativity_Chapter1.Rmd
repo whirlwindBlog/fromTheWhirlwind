@@ -1,9 +1,11 @@
 ---
-title: "Quantum Non-Locality and Relativity: Chapter 1"
-date: 2020-06-29
-markup: mmark
-draft: true
-tags: ["book club", "Quantum Non-Locality and Relativity"]
+title: 'Quantum Non-Locality and Relativity: Chapter 1'
+author: 'Whirl'
+date: '2020-06-29'
+tags:
+  - book club
+  - Quantum Non-Locality and Relativity
+draft: yes
 ---
 
 ## Introduction
@@ -45,7 +47,7 @@ I found myself agreeing that _things_ are indeed _real_ and _separate_, but am w
 
 The rest of the chapter lays out a simplified version of Bell's result, then an increasingly refined series of thought experiments where you and a friend play the role of entangled photons emitted by a Ca^+ ion.
 
-In these thought experiments, we seek to reproduce the behavior of a real Ca^+ ion and its emitted photons. In the real thing, the calcium ion emits two photons simultaneously toward two different polarizers. The polarizer orientations are selected at random from a limited set of angles, 0, 30, and 60 degrees. Behind each polarizer is a photon detector so we can measure whether a photon passed through, or was absorbed by the polarizer. What quantum mechanics tells us is that the probability of _both_ detectors measuring a photon is a simple function of the difference in polarization angle between the polarizers. If $\theta_1$ is the angle of the first polarizer, and $\theta_2$ is the angle of the second polarizer, then we can define $\alpha = \theta_1 - \theta_2$. The probability of both detectors measuring a photons is then just $P = cos^2(\alpha)$.
+In these thought experiments, we seek to reproduce the behavior of a real Ca^+ ion and its emitted photons. In the real thing, the calcium ion emits two photons simultaneously toward two different polarizers. The polarizer orientations are selected at random from a limited set of angles, 0, 30, and 60 degrees. Behind each polarizer is a photon detector so we can measure whether a photon passed through, or was absorbed by the polarizer. What quantum mechanics tells us is that the probability of _both_ detectors measuring a photon is a simple function of the difference in polarization angle between the polarizers. If $\theta_1$ is the angle of the first polarizer, and $\theta_2$ is the angle of the second polarizer, then we can define $\alpha = \theta_1 - \theta_2$. The probability of both detectors measuring a photons is then just $P = \cos^2\left(\alpha\right)$.
 
 {{ < figure src="/test.png" width="40%" > }}
 
