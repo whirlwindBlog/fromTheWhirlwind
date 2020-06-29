@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Pardon Our Dust</title>
+      <link>/post/pardon-our-dust/</link>
+      <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/pardon-our-dust/</guid>
+      <description>Sorry about the rapid, disorienting style changes. The previous theme I was using, ananke, was incapable of properly rendering LaTeX, so I have pivoted to blogdown using the hugo-xmin theme.
+So far I really like this workflow, and layout, but would like a return of tornado.gif, so the website theme may stay in flux for at least a little while.</description>
+    </item>
+    
+    <item>
       <title>Quantum Non-Locality and Relativity: Chapter 1</title>
       <link>/post/draft_quantum_nonlocality_relativity_chapter1/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>

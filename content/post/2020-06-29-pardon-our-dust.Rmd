@@ -1,0 +1,13 @@
+---
+title: Pardon Our Dust
+author: Whirl
+date: '2020-06-29'
+slug: pardon-our-dust
+categories: []
+tags: []
+draft: no
+---
+
+Sorry about the rapid, disorienting style changes. The previous theme I was using, ananke, was incapable of properly rendering LaTeX, so I have pivoted to <a href="https://bookdown.org/yihui/blogdown/">blogdown</a> using the hugo-xmin theme. 
+
+So far I really like this workflow, and layout, but would like a return of tornado.gif, so the website theme may stay in flux for at least a little while.
