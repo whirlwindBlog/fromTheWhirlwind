@@ -1,7 +1,8 @@
 ---
 title: "About"
-description: ""
+description: "I'm care about quantum stuff"
 featured_image: "/images/tornado.jpg"
+showthedate: false
 ---
 
 I'm just here demanding answers like everyone else.
