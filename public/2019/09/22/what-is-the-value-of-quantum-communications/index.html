@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="referrer" content="no-referrer">
+  
+
+  <link rel="icon" type="image/png" href="/favicon.png">
+
+  <title>
+    
+    
+     What is the Value of Quantum Communications? 
+    
+  </title>
+  <link rel="canonical" href="/2019/09/22/what-is-the-value-of-quantum-communications/">
+
+  <link rel="stylesheet" href="/css/fonts.css" />
+  <link rel="stylesheet" href="/css/style.css" />
+
+  
+</head>
+
+<body>
+<section id=nav>
+  <h1><a href="/">From the Whirlwind</a></h1>
+  <ul>
+    
+    <li><a href="/">Home</a></li>
+    
+    <li><a href="/about">About</a></li>
+    
+    <li><a href="/post">Posts</a></li>
+    
+  </ul>
+</section>
+
+
+<section id=content>
+  <h1> What is the Value of Quantum Communications? </h1>
+
+  <div id=sub-header>
+     · 2019/09/22 · 6 minute read
+  </div>
+
+  <div class="entry-content">
+    <p>Practicing physicists and interested observers by now have heard the many fantastical promises of the coming <!-- raw HTML omitted -->'2nd Quantum Revolution'<!-- raw HTML omitted -->. The usual hype is that quantum computers will smash mere classical encryption and usher in an era of unprecedented, colossal computing power. There&rsquo;s a lot to be said on that subject, but we mustn&rsquo;t neglect the closely related quantum sensing and communications technologies that, together with quantum computing, fall under the umbrella of Quantum Information Sciences. Indeed, sensing and communications are interesting precisely because they require fewer qubits than universal quantum computers, and so are likely to reach marketability long before quantum computers <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+<p>The value proposition of quantum sensors is easy to understand, and I intend to author a post about quantum sensing sometime in the future.</p>
+<p>At first glance, it seems that the value of quantum communications (unhackable, perfectly secure communication) is also quite clear. I contend that, even ignoring the substantial shortcomings of current quantum comms technology, the use cases for quantum communications networks are still quite limited.</p>
+<!-- raw HTML omitted -->
+<p>Despite its relative youth, the current body of quantum comms literature is intimidating in its breadth and depth. The protocols, implementations, security analyses, tweaks, demonstrations, and so on are multitudinous. As far as I know, there is no good quantum communications primer, except for whichever parts of the quantum computing literature are applicable. Maybe I will write one? Good introductions to quantum computing range from <em>the</em> textbook <!-- raw HTML omitted -->Quantum Computing and Quantum Information<!-- raw HTML omitted -->, to this useful article at <!-- raw HTML omitted --> War on the Rocks<!-- raw HTML omitted -->, or a quantum computing text book slowly being built as an online spaced-repetition website: <!-- raw HTML omitted -->Quantum Computing for the Very Curious<!-- raw HTML omitted -->.</p>
+<p>Nonetheless, no specialized knowledge of quantum mechanics is required to see that the Quantum Communications field is full of activity. There are multiple commercial ventures selling quantum key distribution (QKD) equipment. The Chinese &lsquo;quantum&rsquo; satellite, <em>Micius</em>, made a big splash several years ago by distributing quantum keys between ground stations <!-- raw HTML omitted -->1200 km apart<!-- raw HTML omitted -->. Additionally, every major player in quantum technologies has some sort of quantum communications network. The <!-- raw HTML omitted -->Chinese network<!-- raw HTML omitted --> spans many nodes in several cities, Vienna, Tokyo, and Los Alamos are also running more limited QKD networks as well<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>. In general, the United States focuses more on quantum computing, but still has a very active quantum comms academic research community. China seems to be most advanced, as they not only have demonstrated ground-space QKD, but have also kicked off a flurry of research activity on <!-- raw HTML omitted -->sub-marine QKD links<!-- raw HTML omitted -->.</p>
+<p>A quick glance through the list and you can see that quantum communications is currently limited pretty much entirely to QKD implementations. Further, what implementations exist are suboptimal in multiple ways: security proofs often rely on strong assumptions<sup id="fnref:3"><a href="#fn:3" class="footnote-ref" role="doc-noteref">3</a></sup> about many parts of the system, key rates are comically low, and many protocols are stymied by lossy transmission channels. There are entire <!-- raw HTML omitted -->research labs<!-- raw HTML omitted --> whose activities are entirely dedicated to exposing security flaws in laboratory and commercial QKD implementations. In the near term, there is not much use to be had from QKD, but as researchers in the field continue to iterate on their protocols, this may change.</p>
+<!-- raw HTML omitted -->
+<p>Why? Why do all of this? Why launch what amounts to a full quantum optics lab into space? Why set up quantum communications nodes in major cities?</p>
+<p>Pretty much everyone will tell you that quantum communications offer unhackable, provably secure communications channels which, as a bonus, can notify you when a third party is attempting to eavesdrop on your conversation.</p>
+<p>Let&rsquo;s leave aside for now the gaping holes in the phrase &ldquo;provably secure&rdquo; and consider the case of ideal quantum communications. We can assume the laws of physics as we know them are ironclad, and the bitrates of quantum communication protocols approach those of classical communications.</p>
+<p><strong>Unhackable</strong> messages sound great in principle, but do you need a fully quantum communications infrastructure to realize it? I could encrypt my emails and texts such that even the mighty US government would have no hope of cracking the encryption by brute force. The entirety of our society is built on being pretty sure that no-one can efficiently factor prime numbers. There&rsquo;s no mathematical proof that it can&rsquo;t be done, but clearly such proof is not required.</p>
+<p>What circumstances would warrant such ironclad security guarantees?</p>
+<!-- raw HTML omitted -->
+<p>The time horizon for this scenario is thought to be somewhere between 5-100 years. My personal guess is at least 50 years.<!-- raw HTML omitted --></p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>I expect that classical information encrypted with whichever <!-- raw HTML omitted -->post-quantum standard<!-- raw HTML omitted --> NIST chooses will be totally sufficient for the every needs of private citizens, businesses, and most local, state, and federal government entities. Predictably, extraordinarily sensitive government and military communications <em>might</em> benefit from what quantum comms have to offer. I could see something like the nuclear command and control system being run preferentially on quantum nodes, with the classical communications infrastructure as a redundant back-up. Perhaps time-sensitive and extremely secret diplomatic cables would also be a plausible use case. Even so, it&rsquo;s worth pointing out that quantum comms only solve the signals intelligence side of security problem. Information will still be read and known by humans, some of whom will always be vulnerable to overtures from adversarial intelligence organizations.</p>
+<!-- raw HTML omitted -->
+<p>The state of the art of quantum communications is still far, far from realistically satisfying the use cases above. Bitrates are low (&lt; kbps over relevant distances), the protocols are largely limited to quantum key distribution, and security proofs have only recently begun to grapple with realistic empirical conditions just to name a few. You still have to do a lot of work crawling through the literature to properly compare various protocols and implementations. Still, here&rsquo;s a list of a few important enabling advances:</p>
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<!-- raw HTML omitted -->
+<p>The quantum business landscape is currently crowded with all kinds of companies, most of which are peddling some sort of software solutions for some hypothetical future quantum computer. None that I know of are offering anything like what I&rsquo;ve described in the list above. In the coming weeks and months I will attempt to survey the business landscape to suss out what exactly is going on and determine exactly how high the bullshit has been piled up.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>The <!-- raw HTML omitted --> European Quantum Manifesto<!-- raw HTML omitted --> has a nice, but <em>very</em> optimistic timeline of quantum technology development. <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Wikipedia&rsquo;s QKD article has a <!-- raw HTML omitted -->list of active QKD networks<!-- raw HTML omitted -->. <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:3" role="doc-endnote">
+<p>Many security proofs assume key lengths in the &lsquo;asymptotic limit&rsquo;. This is jargon for &lsquo;infinite key length&rsquo;. Finite size key effects are important, but often ignored, especially in the early literature. <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+
+  </div>
+
+  <div id=links>
+    
+    
+      <a class="basic-alignment left" href="/2019/10/01/what-do-you-do-with-a-quantum-computer/">What do you do with a Quantum Computer &raquo;</a>
+    
+  </div>
+</section>
+
+<section id="comments">
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+      
+      
+      if (window.location.hostname == "localhost")
+                return;
+
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      var disqus_shortname = '';
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
+
+
+  
+  
+
+
+</body>
+</html>
+

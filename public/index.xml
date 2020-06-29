@@ -13,116 +13,116 @@
     
     <item>
       <title>Pardon Our Dust</title>
-      <link>/post/pardon-our-dust/</link>
+      <link>/2020/06/29/pardon-our-dust/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/pardon-our-dust/</guid>
+      <guid>/2020/06/29/pardon-our-dust/</guid>
       <description>Sorry about the rapid, disorienting style changes. The previous theme I was using, ananke, was incapable of properly rendering LaTeX, so I have pivoted to blogdown using the hugo-xmin theme.
 So far I really like this workflow, and layout, but would like a return of tornado.gif, so the website theme may stay in flux for at least a little while.</description>
     </item>
     
     <item>
       <title>Quantum Non-Locality and Relativity: Chapter 1</title>
-      <link>/post/draft_quantum_nonlocality_relativity_chapter1/</link>
+      <link>/2020/06/29/quantum-non-locality-and-relativity-chapter-1/</link>
       <pubDate>Mon, 29 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/draft_quantum_nonlocality_relativity_chapter1/</guid>
+      <guid>/2020/06/29/quantum-non-locality-and-relativity-chapter-1/</guid>
       <description>Introduction The book opens with an introduction that teases us with some of the ideas that will be developed later on. We start with a statement of Bell’s theorem:
  …observable correlations between [entangled] particles could not be accounted for by any theory which attributes only locally defined physical states to them. The particles appear to be ‘connected’ or “in communication” no matter how distantly separated they may become. The outcome of experiments performed on one member of the pair appears to depend not just on that member’s own intrinsic physical state, but also on the result of the experiments carried out on its twin.</description>
     </item>
     
     <item>
       <title>The Whirlwind Book Club</title>
-      <link>/post/whirlwind_book_club/</link>
+      <link>/2020/06/28/the-whirlwind-book-club/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/whirlwind_book_club/</guid>
+      <guid>/2020/06/28/the-whirlwind-book-club/</guid>
       <description>Sometime between the end of grad school and now, I stopped reading fiction. My reading was almost exclusively science fiction/fantasy, and I&amp;rsquo;d get through at least 6 books a year, often much more. At some point, though, I stopped being excited by the genre. Or, at least, stopped being excited enough to spend time on works of unknown quality. I had been replacing some of that reading with non-fiction, mostly histories.</description>
     </item>
     
     <item>
       <title>Reviewing Peer Review</title>
-      <link>/post/draft_peer_review/</link>
+      <link>/2020/06/27/reviewing-peer-review/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/draft_peer_review/</guid>
+      <guid>/2020/06/27/reviewing-peer-review/</guid>
       <description>I was once asked to a review a paper on classical (digital) superconducting electronics. I&amp;rsquo;m not really an expert on that kind of thing, but I know enough to be dangerous. After reading the paper I couldn&amp;rsquo;t detect any obvious flaws. I didn&amp;rsquo;t have access to their data, so clearly I couldn&amp;rsquo;t check that they actually got the results they claimed, but I could check consistency between tables and figures, words and figures, and so on.</description>
     </item>
     
     <item>
       <title>Quantum Winter Insurance</title>
-      <link>/post/quantum_winter_insurance/</link>
+      <link>/2020/06/25/quantum-winter-insurance/</link>
       <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/quantum_winter_insurance/</guid>
+      <guid>/2020/06/25/quantum-winter-insurance/</guid>
       <description>I&amp;rsquo;ve recently been thinking about the inevitable(?) onset of quantum winter. Maybe the frequent summer storms have bent the course of my thoughts toward turbulent ends, or maybe I&amp;rsquo;m just like this.
 Quantum winter will hollow out our vibrant field, laying waste to start-ups and diverting talent and expertise to pursuits that will actually pay the bills. In many cases, deep process knowledge will be lost as practicing experimentalists are forced to change fields and major fab facilities direct their efforts toward the next thing.</description>
     </item>
     
     <item>
       <title>Building the Glorious Quantum Future</title>
-      <link>/post/glorious_quantum_future/</link>
+      <link>/2020/06/21/building-the-glorious-quantum-future/</link>
       <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/glorious_quantum_future/</guid>
+      <guid>/2020/06/21/building-the-glorious-quantum-future/</guid>
       <description>UPDATE (06/22/2020): When I posted this originally I forget a small additional point I wanted to make regarding &amp;lsquo;full stack&amp;rsquo; quantum experiences on the cloud (Amazon&amp;rsquo;s Braket, Microsoft&amp;rsquo;s cloud quantum, etc) and so have added in a mention about that at the end.
  Not too long ago, Marc Andreessen wrote an article titled IT&amp;rsquo;S TIME TO BUILD. Inspired in part by the inexcusably poor American government (federal, state, and local) response to the public health crisis brought on by the virus SARS-CoV-2 and its attendant disease, COVID-19, the piece decries the American drift away from building our way out of problems to a better future.</description>
     </item>
     
     <item>
       <title>Quantum Roadmaps in the Pacific</title>
-      <link>/post/draft_quantum_roadmaps_indopac/</link>
+      <link>/2020/05/25/quantum-roadmaps-in-the-pacific/</link>
       <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/draft_quantum_roadmaps_indopac/</guid>
+      <guid>/2020/05/25/quantum-roadmaps-in-the-pacific/</guid>
       <description>Australia&amp;rsquo;s CSIRO recently published a roadmap for quantum technology titled Growing Australia&amp;rsquo;s Quantum Technology Industry. The report is pretty readable and highlights the major areas in which Australia has core competencies, both academic and private. Similarly, this article from the Nikkei Asian Review, The subatomic age: Asia&amp;rsquo;s Quantum Computing Arms Racedoes a decent job describing the state of play elsewhere in the Asia-Pacific region.
 The countries mentioned in the Nikkei article, Singapore, Japan, and China all have significant ongoing efforts in 2nd Wave quantum technologies.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/post/draft_dear_john/</link>
+      <link>/2020/04/30/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/draft_dear_john/</guid>
+      <guid>/2020/04/30/</guid>
       <description>Like the rest of you I was somewhat surprised by John Martinis&amp;rsquo; abrupt resignationfrom his position at Google. There&amp;rsquo;d been rumors of some unrest at Google for a while now, but nothing concrete or unusual for any organization full of motivated individuals.
 The Wired article I linked above, but extremely light on details, so I was happy to learn that Paul Smith-Goodson published a transcript of an in-depth interviewwith Martinis on the subject of his recent departure.</description>
     </item>
     
     <item>
       <title>A Tantalizing Approach to Better Qubits</title>
-      <link>/post/materials_revisited/</link>
+      <link>/2020/04/26/a-tantalizing-approach-to-better-qubits/</link>
       <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/materials_revisited/</guid>
+      <guid>/2020/04/26/a-tantalizing-approach-to-better-qubits/</guid>
       <description>I have returned from my absence at long last. Initially, my pen was stilled by the Darkness of the winter months. Each year the Darkness weighs more heavily upon my psyche than the year before, and this year was no different. I didn’t have much to say during those months, but I did anticipate an earlier return than this. I expected March Meeting of the American Physical Society to be a promising trove of new ideas, both good and bad.</description>
     </item>
     
     <item>
       <title>Quantum Computing vs Bitcoin</title>
-      <link>/post/quantum_computing_vs_bitcoin/</link>
+      <link>/2019/12/03/quantum-computing-vs-bitcoin/</link>
       <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/quantum_computing_vs_bitcoin/</guid>
+      <guid>/2019/12/03/quantum-computing-vs-bitcoin/</guid>
       <description>Ever since Google&amp;rsquo;s quantum supremacy leak, my daily QC alerts feature at least one article about whether your Bitcoin, Ethereum, etc is suddenly in danger due to ~QuANtuM~. Mostly this has been amusing, and until now I have resisted clicking on the links to such articles, but eventually I caved. I, of course, immediately regretted doing so, but you know what they say, &amp;ldquo;What has been seen cannot be unseen.&amp;rdquo;</description>
     </item>
     
     <item>
       <title>Quantum Computing with Optical Traps</title>
-      <link>/post/quera_and_cold_atom_qc/</link>
+      <link>/2019/12/01/quantum-computing-with-optical-traps/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/quera_and_cold_atom_qc/</guid>
+      <guid>/2019/12/01/quantum-computing-with-optical-traps/</guid>
       <description>It has been some time since my last post, but Quantum Computing is not standing still. This time I&amp;rsquo;m writing about a technology that is relatively obscure in QC, cold neutral atoms in optical traps. Why now? Well a new quantum startup has appeared focusing on exactly that: QuEra .
 You&amp;rsquo;ll notice that the website is characteristically sparse, with little information about the team, aside from their names. We do know they&amp;rsquo;re hiring for a number of positions including &amp;ldquo;Special Effects coordinator and Mike Wahlberg stunt double&amp;rsquo; as of 11/30/2019.</description>
     </item>
     
     <item>
       <title>More Quantum Computing Deals: HQS and IonQ</title>
-      <link>/post/more-deals-hqs-ionq/</link>
+      <link>/2019/11/10/more-quantum-computing-deals-hqs-and-ionq/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/more-deals-hqs-ionq/</guid>
+      <guid>/2019/11/10/more-quantum-computing-deals-hqs-and-ionq/</guid>
       <description>Activity in the quantum sphere continues with a seed roundconcluded for HQS Quantum Simulations. HQS claims to be &amp;ldquo;developing quantum algorithms to predict molecular properties for performance materials, specialty chemicals and pharmaceutical companies&amp;rdquo;.
 IonQ closed a $55 million dollar funding roundto ostensibly to join their superconducting competitors in offering cloud-based access to their machines, and further improving control and programmability.
 HQS It&amp;rsquo;s interesting to me that HQS claims their algorithms work on classical computers and quantum computers.</description>
@@ -130,29 +130,29 @@ HQS It&amp;rsquo;s interesting to me that HQS claims their algorithms work on cl
     
     <item>
       <title>One MILLION Qubits</title>
-      <link>/post/draft-one-million-qubits/</link>
+      <link>/2019/11/10/one-million-qubits/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/draft-one-million-qubits/</guid>
+      <guid>/2019/11/10/one-million-qubits/</guid>
       <description> Recent cryo CMOS paper and scaling to one MILLION qubits  </description>
     </item>
     
     <item>
       <title>The PhD Standard</title>
-      <link>/post/physics-phd-education/</link>
+      <link>/2019/10/20/the-phd-standard/</link>
       <pubDate>Sun, 20 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/physics-phd-education/</guid>
+      <guid>/2019/10/20/the-phd-standard/</guid>
       <description>I came across this twitter threadin which a few physicists argue about what knowledge makes a Physics PhD.
 Jon Dowling argues that some of the more advanced QM topics (WKB, specifically) are antiquated and not useful knowledge, now that we have the computational resources to solve these equations numerically to arbitrary precision. Rod van Meter chimes in with a slightly different take, that it should be possible to get a PhD in Quantum Computing without taking courses in Statistical Mechanics, and E&amp;amp;M, for example.</description>
     </item>
     
     <item>
       <title>My kingdom for a qubit!</title>
-      <link>/post/draft_cost-of-qubit/</link>
+      <link>/2019/10/19/my-kingdom-for-a-qubit/</link>
       <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/draft_cost-of-qubit/</guid>
+      <guid>/2019/10/19/my-kingdom-for-a-qubit/</guid>
       <description>If you&amp;rsquo;ve been exposed to experimental science for any length of time, probably you&amp;rsquo;ve gotten over your horror at the sheer cost of scientific equipment. Turbopumps routinely cost in excess of $10,000, particularly fancy lasers can come in at $100,000 or more. When money is tight, as it is in many academic labs, you are acutely aware of the cost.
 Dil Fridge: $1 Million?
  Includes pumps (&amp;gt;$20000) Includes mix (~$150,000), expensive due to He-3 Doesn&amp;rsquo;t include operation or maintenance.</description>
@@ -160,10 +160,10 @@ Dil Fridge: $1 Million?
     
     <item>
       <title>When Winter Comes</title>
-      <link>/post/draft_after-winter/</link>
+      <link>/2019/10/15/when-winter-comes/</link>
       <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/draft_after-winter/</guid>
+      <guid>/2019/10/15/when-winter-comes/</guid>
       <description>-VCs and private industry (Google, IBM) are funding a lot of quantum computation efforts.
 -Many, especially the software ventures, will inevitably fold when Quantum Winter arrives
   What happens to their research? The lessons they learn while trying to develop their &amp;lsquo;products&amp;rsquo;?
@@ -174,20 +174,20 @@ Dil Fridge: $1 Million?
     
     <item>
       <title>The Quantum Bubble Grows</title>
-      <link>/post/quantum-bubble-grows/</link>
+      <link>/2019/10/13/the-quantum-bubble-grows/</link>
       <pubDate>Sun, 13 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/quantum-bubble-grows/</guid>
+      <guid>/2019/10/13/the-quantum-bubble-grows/</guid>
       <description>Two new startups have joined the quantum world, Rahkoand Bleximo. They focus on quantum machine learning, and &amp;lsquo;practical&amp;rsquo; quantum computers for quantum simulation, respectively.
 The big bet for Rahko and the rest of the wildly proliferating quantum software startups must be that some sort of useful, usable quantum computer is going to exist in the near term (&amp;lt; 5 years). If it doesn&amp;rsquo;t, what they will be left with is a smattering of arXiv publications and some preliminary validation of their methods on whatever toy QCs IBM, Google, and Rigetti choose to provide for public use.</description>
     </item>
     
     <item>
       <title>There&#39;s Gold in Them Hilbert Spaces</title>
-      <link>/post/quantum-gold-rush/</link>
+      <link>/2019/10/04/theres-gold-in-them-hilbert-spaces/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/quantum-gold-rush/</guid>
+      <guid>/2019/10/04/theres-gold-in-them-hilbert-spaces/</guid>
       <description>Nature has published an articleinvestigating the VC funding landscape for quantum technologies.
 It&amp;rsquo;s interesting, and the supplementary material provides a chronology of VC deals with quantum tech companies, with the deal size in dollars shown, if that information is disclosed. It&amp;rsquo;s a short read and I recommend it to get a sense of the scale of the effort, at least the privately funded side.
 One particular portion stood out to me [bold is my emphasis]:</description>
@@ -195,29 +195,29 @@ One particular portion stood out to me [bold is my emphasis]:</description>
     
     <item>
       <title>Putting the &#39;Eh&#39; in Quantum Supremacy</title>
-      <link>/post/draft_quantum-supr-eh-macy/</link>
+      <link>/2019/10/01/putting-the-eh-in-quantum-supremacy/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/draft_quantum-supr-eh-macy/</guid>
+      <guid>/2019/10/01/putting-the-eh-in-quantum-supremacy/</guid>
       <description>A lot of pixels have been spilled about the implications of Google&amp;rsquo;s &amp;lsquo;quantum supremacy&amp;rsquo; paper, which was accidentally released (leaked?) a few weeks ago. While we&amp;rsquo;re still waiting to see the final version, there&amp;rsquo;s not much reason to expect it will differ substantially from the leaked copy.
 In a way, the importance of the result is a barometer for your feelings about quantum computing in general. Some extremely bearish skepticsdon&amp;rsquo;t think the result will stand.</description>
     </item>
     
     <item>
       <title>What do you do with a Quantum Computer</title>
-      <link>/post/draft_what-to-do-with-a-quantum-computer/</link>
+      <link>/2019/10/01/what-do-you-do-with-a-quantum-computer/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/draft_what-to-do-with-a-quantum-computer/</guid>
+      <guid>/2019/10/01/what-do-you-do-with-a-quantum-computer/</guid>
       <description>Is NISQ work harming the progress of quantum computing? Proliferation of algorithms with no known use b/c the hardware is shit Proliferation of algorithms with no proof that they even offer quantum advantage, because the hardware is shit Should we be doing something else?  On the heels of the Google Quantum Supremacy leak, Nature has published a few interesting articles on quantum computing. This articlelooks at where the hunt for useful quantum computers.</description>
     </item>
     
     <item>
       <title>What is the Value of Quantum Communications?</title>
-      <link>/post/value-of-quantum-comms/</link>
+      <link>/2019/09/22/what-is-the-value-of-quantum-communications/</link>
       <pubDate>Sun, 22 Sep 2019 12:05:11 -0400</pubDate>
       
-      <guid>/post/value-of-quantum-comms/</guid>
+      <guid>/2019/09/22/what-is-the-value-of-quantum-communications/</guid>
       <description>Practicing physicists and interested observers by now have heard the many fantastical promises of the coming &#39;2nd Quantum Revolution&#39;. The usual hype is that quantum computers will smash mere classical encryption and usher in an era of unprecedented, colossal computing power. There&amp;rsquo;s a lot to be said on that subject, but we mustn&amp;rsquo;t neglect the closely related quantum sensing and communications technologies that, together with quantum computing, fall under the umbrella of Quantum Information Sciences.</description>
     </item>
     
