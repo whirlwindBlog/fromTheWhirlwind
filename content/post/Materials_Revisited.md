@@ -1,5 +1,6 @@
 ---
 title: "A Tantalizing Approach to Better Qubits"
+markup: mmark
 date: 2020-04-26
 draft: false
 ---
