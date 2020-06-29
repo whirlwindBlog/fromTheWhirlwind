@@ -2,7 +2,6 @@ baseURL = "https://whirlwind.netlify.com"
 languageCode = "en-us"
 title = "From the Whirlwind"
 theme = "hugo-tanka"
-sectionPagesMenu = "main"
 
 
 googleAnalytics = ""
@@ -23,13 +22,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Home"
-    url = "https://whirlwind.netlify.app"
+    url = "/"
     weight = 1
 [[menu.main]]
     name = "About"
-    url = "https://whirlwind.netlify.app/about"
+    url = "/about"
     weight = 2
 [[menu.main]]
     name = "Posts"
-    url = "https://whirlwind.netlify.app/post"
+    url = "/post"
     weight = 3
