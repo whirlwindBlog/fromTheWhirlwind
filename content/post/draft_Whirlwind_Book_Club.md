@@ -1,7 +1,7 @@
 ---
 title: "The Whirlwind Book Club"
 date: 2020-06-28
-draft: true
+draft: false
 tags: ["book club"]
 ---
 
@@ -18,4 +18,4 @@ The blurb on goodreads:
 
 >Modern physics was born from two great revolutions: relativity and quantum theory. Relativity imposed a locality constraint on physical theories: since nothing can go faster than light, very distant events cannot influence one another. Only in the last few decades has it become clear that quantum theory violates this constraint. The work of J. S. Bell has demonstrated that no local theory can return the predictions of quantum theory. Thus it would seem that the central pillars of modern physics are contradictory. Quantum Non-Locality and Relativity examines the nature and possible resolution of this conflict. Beginning with accurate but non-technical presentations of Bell's work and of Special Relativity, there follows a close examination of different interpretations of relativity and of the sort of locality each demands. The story continues with a brief discussion of the General Theory of Relativity. This second edition also includes a new author's preface and an additional appendix. The book introduces philosophers to the relevant physics and demonstrates how philosophical analysis can help to resolve some of the problems. All of the physics is presented from first principles, and as much as possible is presented pictorially.
 
- It might shock you to learn that the tension between quantum theory and relativity is not exactly well covered in the university's physics curriculum. I'd actually made it half-way through _Quantum Non-Locality and Relativity_ on a previous reading, but the topic is subtle and really does require active engagement with the material. On this attempt, I will be taking notes and writing down questions as they occur to me. Posts will be on a per-chapter basis, maybe with a few interludes devoted to relevant papers. The object will be to identify and redress the gaps in my understanding of topics I thought I'd "learned" more than a decade ago.
+ It might shock you to learn that the tension between quantum theory and relativity is not exactly well covered in the undergraduate physics curriculum. I'd actually made it half-way through _Quantum Non-Locality and Relativity_ on a previous reading, but the topic is subtle and really does require active engagement with the material. On this attempt, I will be taking notes and writing down questions as they occur to me. Posts will be on a per-chapter basis, maybe with a few interludes devoted to relevant papers. The object will be to identify and redress the gaps in my understanding of topics I thought I'd "learned" more than a decade ago.
