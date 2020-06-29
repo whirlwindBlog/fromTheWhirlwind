@@ -9,12 +9,10 @@ Sometime between the end of grad school and now, I stopped reading fiction. My r
 
 Unfortunately, non-fiction is generally much more challenging and subtle than even very good SFF. When before it didn't really matter how much I could remember about wizards or spaceships, now I need to keep track of a whole book's worth of arguments to really appreciate what I'm reading. One thing that helps is, paradoxically, listening to the books in question at 1.25x - 1.5x speeds during my commute. The faster speech requires some effort to focus on, but not enough that it impairs my driving. Of course, not all books have an audiobook version, so for those I need a new approach. As you might have guessed, I've decided to record my progress through them in a public space. I do this not only as a form of accountability, but also as a way to formalize my hand-written notes and better crystalize my thoughts.
 
-In an effort to remain on-brand, inasmuch as a blog with no more than a few dozen readers can have a brand, I'll start with Tim Maudlin's <a href="https://www.amazon.com/Quantum-Non-Locality-Relativity-Metaphysical-Intimations/dp/1444331272/ref=sr_1_5?dchild=1&keywords=Tim+Maudlin&qid=1593346438&sr=8-5"> Quantum Non-Locality and Relativity</a>.
-
-![Tim Maudlin's Quantum Non-locality and Relativity book cover](/images/maudlin_quantum_nonlocality.jpg){ width=20% }
+In an effort to remain on-brand, inasmuch as a blog with no more than a few dozen readers can have a brand, I'll start with Tim Maudlin's <a href="https://www.amazon.com/Quantum-Non-Locality-Relativity-Metaphysical-Intimations/dp/1444331272/ref=sr_1_5?dchild=1&keywords=Tim+Maudlin&qid=1593346438&sr=8-5"> Quantum Non-Locality and Relativity</a>. I'm reading third edition, but the image below is the cover of the second edition.
 
 
-{{< figure src="/images/maudlin_quantum_nonlocality.jpg" title="Test" width="50" height="55">}}
+{{< figure src="/images/maudlin_quantum_nonlocality.jpg" width="40%">}}
 
 The blurb on goodreads:
 
