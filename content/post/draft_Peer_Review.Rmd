@@ -1,0 +1,33 @@
+---
+title: "The arXiv is Infrastructure"
+date: 2020-06-27
+draft: true
+tags: ["doing science"]
+---
+
+The (many) problems with peer 
+
+
+
+
+
+- The arXiv is good! It's awesome to get access to important work in a relatively timely fashion, especially when the review process takes anywhere between months to years and exploits unpaid labor. 
+
+- arXiv failure modes:
+    - basically no quality control
+    - too many papers
+    - no comment feature, can only respond through another pre-print
+    
+-SciRate tries to tackle 1 & 3, but the overwhelming majority of papers receive no comment at all
+
+- In the year 2020 papers don't need to be pdfs, or not just pdfs
+- Envision each paper as a git repo with the pdf as just one part (that can be posted to arXiv)
+- Data analysis could be stand-alone Jupyter notebooks, data can be downloaded and manipulated by others
+- The most insidious issues are subtle mistakes in important papers, the solutions to which are not publishable, but still cost other researchers a lot of time and money to diagnose and fix. 
+- Contributions in the form of fixes/comments/reviews, etc are considered _work_. 
+- Good contributions in any form weighted at least as strongly as 'publication' in performance reviews
+- Non-publishable analysis tricks/techniques/etc disseminate more quickly. 
+
+
+
+

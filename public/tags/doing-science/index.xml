@@ -12,12 +12,15 @@
     
     
     <item>
-      <title>Reviewing Peer Review</title>
-      <link>/2020/06/27/reviewing-peer-review/</link>
+      <title>The arXiv is Infrastructure</title>
+      <link>/2020/06/27/the-arxiv-is-infrastructure/</link>
       <pubDate>Sat, 27 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/06/27/reviewing-peer-review/</guid>
-      <description>I was once asked to a review a paper on classical (digital) superconducting electronics. I&amp;rsquo;m not really an expert on that kind of thing, but I know enough to be dangerous. After reading the paper I couldn&amp;rsquo;t detect any obvious flaws. I didn&amp;rsquo;t have access to their data, so clearly I couldn&amp;rsquo;t check that they actually got the results they claimed, but I could check consistency between tables and figures, words and figures, and so on.</description>
+      <guid>/2020/06/27/the-arxiv-is-infrastructure/</guid>
+      <description>The (many) problems with peer
+ The arXiv is good! It’s awesome to get access to important work in a relatively timely fashion, especially when the review process takes anywhere between months to years and exploits unpaid labor.
+ arXiv failure modes:
+ basically no quality control too many papers no comment feature, can only respond through another pre-print   -SciRate tries to tackle 1 &amp;amp; 3, but the overwhelming majority of papers receive no comment at all</description>
     </item>
     
   </channel>
