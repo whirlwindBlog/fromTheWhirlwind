@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>book club on From the Whirlwind</title>
-    <link>https://whirlwind.netlify.com/tags/book-club/</link>
+    <link>/tags/book-club/</link>
     <description>Recent content in book club on From the Whirlwind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://whirlwind.netlify.com/tags/book-club/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/book-club/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quantum Non-Locality and Relativity: Chapter 1</title>
-      <link>https://whirlwind.netlify.com/2020/07/04/quantum-non-locality-and-relativity-chapter-1/</link>
+      <link>/2020/07/04/quantum-non-locality-and-relativity-chapter-1/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://whirlwind.netlify.com/2020/07/04/quantum-non-locality-and-relativity-chapter-1/</guid>
+      <guid>/2020/07/04/quantum-non-locality-and-relativity-chapter-1/</guid>
       <description>This is the first of ?? posts cataloguing my read through of Tim Maudlin’s Quantum Non-Locality and Relativity: Metaphysical Intimations of Modern Physics.
 Introduction The book opens with an introduction that teases us with some of the ideas that will be developed later on. We start with a statement of Bell’s theorem:
  …observable correlations between [entangled] particles could not be accounted for by any theory which attributes only locally defined physical states to them.</description>
@@ -24,10 +24,10 @@ Introduction The book opens with an introduction that teases us with some of the
     
     <item>
       <title>The Whirlwind Book Club</title>
-      <link>https://whirlwind.netlify.com/2020/06/28/the-whirlwind-book-club/</link>
+      <link>/2020/06/28/the-whirlwind-book-club/</link>
       <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://whirlwind.netlify.com/2020/06/28/the-whirlwind-book-club/</guid>
+      <guid>/2020/06/28/the-whirlwind-book-club/</guid>
       <description>Sometime between the end of grad school and now, I stopped reading fiction. My reading was almost exclusively science fiction/fantasy, and I&amp;rsquo;d get through at least 6 books a year, often much more. At some point, though, I stopped being excited by the genre. Or, at least, stopped being excited enough to spend time on works of unknown quality. I had been replacing some of that reading with non-fiction, mostly histories.</description>
     </item>
     

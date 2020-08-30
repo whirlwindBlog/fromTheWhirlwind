@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Non-Locality and Relativity on From the Whirlwind</title>
-    <link>https://whirlwind.netlify.com/tags/quantum-non-locality-and-relativity/</link>
+    <link>/tags/quantum-non-locality-and-relativity/</link>
     <description>Recent content in Quantum Non-Locality and Relativity on From the Whirlwind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://whirlwind.netlify.com/tags/quantum-non-locality-and-relativity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/quantum-non-locality-and-relativity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quantum Non-Locality and Relativity: Chapter 1</title>
-      <link>https://whirlwind.netlify.com/2020/07/04/quantum-non-locality-and-relativity-chapter-1/</link>
+      <link>/2020/07/04/quantum-non-locality-and-relativity-chapter-1/</link>
       <pubDate>Sat, 04 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://whirlwind.netlify.com/2020/07/04/quantum-non-locality-and-relativity-chapter-1/</guid>
+      <guid>/2020/07/04/quantum-non-locality-and-relativity-chapter-1/</guid>
       <description>This is the first of ?? posts cataloguing my read through of Tim Maudlin’s Quantum Non-Locality and Relativity: Metaphysical Intimations of Modern Physics.
 Introduction The book opens with an introduction that teases us with some of the ideas that will be developed later on. We start with a statement of Bell’s theorem:
  …observable correlations between [entangled] particles could not be accounted for by any theory which attributes only locally defined physical states to them.</description>
