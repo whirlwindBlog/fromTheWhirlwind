@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LASIQ Surgery for Josephson Junctions | From the Whirlwind</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/about">About</a></li>
+      
+      <li><a href="/post">Posts</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">LASIQ Surgery for Josephson Junctions</span></h1>
+<h2 class="author">Whirl</h2>
+<h2 class="date">2020/09/06</h2>
+</div>
+
+<main>
+
+
+
+<p>I have taken a fairly strong position about the critical need for more focus on better
+materials and better fabrication techniques in the supercondcuting qubit community to
+help solve long-running issues with qubit coherence, frequency distributions, etc.
+So it was with some delight that I found this (pretty dope) paper published to the arXiv from IBM.</p>
+<h2>
+<a href="https://arxiv.org/abs/2009.00781">Laser-annealing Josephson junctions for yielding scaled-up superconducting quantum processors.</a>
+</h2>
+<blockquote>
+<h3>
+Abstract
+</h3>
+As superconducting quantum circuits scale to larger sizes, the problem of frequency crowding proves a formidable task. Here we present a solution for this problem in fixed-frequency qubit architectures. By systematically adjusting qubit frequencies post-fabrication, we show a nearly ten-fold improvement in the precision of setting qubit frequencies. To assess scalability, we identify the types of ‘frequency collisions’ that will impair a transmon qubit and cross-resonance gate architecture. Using statistical modeling, we compute the probability of evading all such conditions, as a function of qubit frequency precision. We find that without post-fabrication tuning, the probability of finding a workable lattice quickly approaches 0. However with the demonstrated precisions it is possible to find collision-free lattices with favorable yield. These techniques and models are currently employed in available quantum systems and will be indispensable as systems continue to scale to larger sizes.
+</blockquote>
+<p>The problem is this: the current IBM junction fabrication process yeilds qubits with a very large frequency distribution around the targeted mean frequency. The frequency of a transmon, the workhorse of the superconducting quantum computing world, is given approximately by
+<span class="math inline">\(f_{01} \sim \sqrt{8E_jE_c} - E_c\)</span>, where the Josephson energy, <span class="math inline">\(E_j\)</span> depends linearly on the Josephson junction critical current, <span class="math inline">\(I_c\)</span>. What IBM (and many others) care about is the goodness of the frequency targeting of their qubits. What determines good frequency targeting is actually junction critical current targeting during the fabrication process. IBM uses fixed-frequency qubits, so getting this right during fabrication is doubly important. Once the qubits are in a refrigerator, there can be no adjustments!</p>
+<p>Why does frequency targeting matter? The strength of qubit-qubit interactions, an important part of quantum computation, are determined in part by the difference in frequency between two interacting qubits. IBM performs what they term ‘cross-resonance gates’, where one qubit is driven at the frequency of its interacting partner. This approach relies on a precisely calibrated and known frequency difference, so deviations from this precise calibration can be disastrous, especially when the frequencies of the two qubits ‘collide’.</p>
+<p>We can see from Fig 1b amd 1c in the paper that the junction frequency targeting of the native, non-altered fabrication process is very bad. The transmons are fabricated with a median frequency of <span class="math inline">\(5.70 \pm 0.13\)</span> GHz. What the figures show is that the highest and lowest frequency tranmons come in nearly <span class="math inline">\(300\)</span> MHz above/below the median! A distribution this wide makes it extraordinarily difficult to target two or more separate frequency bands with any hope of success.</p>
+
+</main>
+
+  <footer>
+  <script src="//yihui.org/js/math-code.js"></script>
+<script async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+  
+  </footer>
+  </body>
+</html>
+

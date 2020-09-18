@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>papers on From the Whirlwind</title>
+    <link>/tags/papers/</link>
+    <description>Recent content in papers on From the Whirlwind</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LASIQ Surgery for Josephson Junctions</title>
+      <link>/2020/09/18/lasiq-surgery-for-josephson-junctions/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/09/18/lasiq-surgery-for-josephson-junctions/</guid>
+      <description>I have a few opinions about the critical need for more focus on better materials and better fabrication techniques in the superconducting qubit community to help solve long-running issues with qubit coherence, qubit targeting, etc. So it was with some delight that I found this (pretty dope) paper published to the arXiv by the IBMQ team.
+ Laser-annealing Josephson junctions for yielding scaled-up superconducting quantum processors.    Abstract  As superconducting quantum circuits scale to larger sizes, the problem of frequency crowding proves a formidable task.</description>
+    </item>
+    
+  </channel>
+</rss>

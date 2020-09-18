@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LASIQ Surgery for Josephson Junctions | From the Whirlwind</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    
+  </head>
+
+  <body>
+    <nav>
+    <ul class="menu">
+      
+      <li><a href="/about">About</a></li>
+      
+      <li><a href="/post">Posts</a></li>
+      
+    </ul>
+    <hr/>
+    </nav>
+
+<div class="article-meta">
+<h1><span class="title">LASIQ Surgery for Josephson Junctions</span></h1>
+<h2 class="author">Whirl</h2>
+<h2 class="date">2020/09/14</h2>
+</div>
+
+<main>
+
+
+
+<p>I have a few <em>opinions</em> about the critical need for more focus on better
+materials and better fabrication techniques in the superconducting qubit community to
+help solve long-running issues with qubit coherence, qubit targeting, etc.
+So it was with some delight that I found this (pretty dope) paper published to the arXiv by the IBMQ team.</p>
+<h2>
+<a href="https://arxiv.org/abs/2009.00781">Laser-annealing Josephson junctions for yielding scaled-up superconducting quantum processors.</a>
+</h2>
+<blockquote>
+<h3>
+Abstract
+</h3>
+As superconducting quantum circuits scale to larger sizes, the problem of frequency crowding proves a formidable task. Here we present a solution for this problem in fixed-frequency qubit architectures. By systematically adjusting qubit frequencies post-fabrication, we show a nearly ten-fold improvement in the precision of setting qubit frequencies. To assess scalability, we identify the types of ‘frequency collisions’ that will impair a transmon qubit and cross-resonance gate architecture. Using statistical modeling, we compute the probability of evading all such conditions, as a function of qubit frequency precision. We find that without post-fabrication tuning, the probability of finding a workable lattice quickly approaches 0. However with the demonstrated precisions it is possible to find collision-free lattices with favorable yield. These techniques and models are currently employed in available quantum systems and will be indispensable as systems continue to scale to larger sizes.
+</blockquote>
+<p>The problem is this: the current IBM junction fabrication process yields qubits with a very large frequency distribution around the target frequency. The frequency of a transmon, the workhorse of the superconducting quantum computing world, is given approximately by
+<span class="math inline">\(f_{01} \sim \sqrt{8E_jE_c} - E_c\)</span>, where the Josephson energy, <span class="math inline">\(E_j\)</span> depends linearly on the Josephson junction critical current, <span class="math inline">\(I_c\)</span>. What IBM (and many others) care about is the goodness of the frequency targeting of their qubits. What determines good frequency targeting is actually Josephson junction critical current targeting during the fabrication process. IBM uses fixed-frequency qubits, so getting this right during fabrication is doubly important. Once the qubits are in a refrigerator, there can be no adjustments!</p>
+<p>Why does frequency targeting matter? The strength of qubit-qubit interactions, an important part of quantum gate operations, are determined in part by the difference in frequency between two interacting qubits. IBM performs what they term ‘cross-resonance gates’, where one qubit is driven at the frequency of its interacting partner. This approach relies on a precisely calibrated frequency difference between the qubits, so deviations from this precise calibration can be disastrous, especially when the frequencies of the two qubits ‘collide’.</p>
+<p>We can see from Fig 1b and 1c (see below) in the paper that the junction frequency targeting of the native, non-altered fabrication process is very bad. The transmons are fabricated with a median frequency of <span class="math inline">\(5.70 \pm 0.13\)</span> GHz. What the figures show is that the highest and lowest frequency transmons come in nearly <span class="math inline">\(300\)</span> MHz above/below the median! A distribution this wide makes it impossibly difficult to target two or more separate frequency bands without incurring frequency collisions.</p>
+<p>It’s been known for a little while that thermally annealing the metal-oxide insulator in the Josephson junction can increase the resistance, <span class="math inline">\(R_n\)</span>, of the tunnel barrier created by the oxide layer. This has the practical effect of changing the Junction critical current, since <span class="math inline">\(I_c = \frac{\pi\Delta}{2eR_n}\)</span>. Throwing a whole chip in the oven won’t solve your frequency crowding problem, since the anneal is applied globally. What if you could anneal individual junctions, though? What if you could do that, and tune exactly how much you change the <span class="math inline">\(R_n\)</span> of the junctions? Well you can, if you happen to have a sufficiently powerful laser and the right optical setup! Shockingly, this procedure was demonstrated <em>12 years ago</em> by an Italian group and <a href="https://iopscience.iop.org/article/10.1088/1742-6596/97/1/012110/pdf">published</a> as a proceeding of the EUCAS conference. It has exactly one citation: the IBM paper.</p>
+<p>The IBM team built an apparatus that can step through an entire chip, shining a laser whose power and illumination duration is precisely calibrated to give the required increase in <span class="math inline">\(R_n\)</span>. In this way, they take their original 31 qubit distribution with enormous spread and turn it into two, very tight clusters of 15 and 16 qubits. I have included the relevant figure below.</p>
+<div class="figure">
+<img src="/post/2020-09-06-lasiq-surgery-for-josephson-junctions_files/Image%209-14-20%20at%208.58%20PM.jpeg" alt="" />
+<p class="caption">Histogram of transmon frequencies pre- and post- laser annealing. From <em>Laser-annealing Josephson junctions for yielding scaled-up superconducting quantum processors</em> by JB Hertzberg et al., <a href="https://arxiv.org/pdf/2009.00781.pdf">https://arxiv.org/pdf/2009.00781.pdf</a></p>
+</div>
+<p>They claim to have a ‘combined’ frequency spread of <span class="math inline">\(\sigma_f\)</span> = 14 MHz, but based on this figure that seems… optimistic. It’s hard to tell, but I think the transmon bunch centered around 5.7 GHz seems to have a full width of the fit that is around 50 MHz. Still, reducing frequency spread among qubits by nearly an order of magnitude is a remarkable achievement.</p>
+<p>It’s a shame that aside from basically saying “we used a laser to make the substrate hot” no details are given about the procedure. Figure 2 has a block diagram of the setup, fine. Sentences like “The beam is shaped as necessary to avoid direct illumination of the junction, and beam size is condensed 4x using a dual-objective setup [40]” are very much not helpful when the reference leads to the <a href="https://patents.google.com/patent/US10170681B1/en">US patent for this technique</a>. To save you the trouble, I have read through it to find the details of beam size and shape. It turns out that the team uses an <a href="https://www.edmundoptics.com/knowledge-center/application-notes/lasers/an-in-depth-look-at-axicons/">axicon lens</a> to transform a Gaussian beam into an annulus with a dark center. The outer radius of the annulus comes in at about 10 <span class="math inline">\(\mu m\)</span>, so a Josephson junction could probably comfortably fit inside the dark zone. This is how they avoid hitting the junction itself with laser light. Instead the laser should end up more or less evenly heating the substrate around the junction. I’m curious to know why they chose an annulus (the 01 Laguerre-Gauss mode) which will intersect the aluminum finger that forms part of the Josephson junction, rather than using the 10 or 01 Hermite-Gauss mode which would put two blobs of light on either side of the junction (see figure below).</p>
+<div class="figure">
+<img src="/post/2020-09-06-lasiq-surgery-for-josephson-junctions_files/fZZom.png" alt="" />
+<p class="caption">Fig2. The Hermite-Gauss beam modes</p>
+</div>
+<p>It’s unclear to me why the interesting optical details were hidden at the end of a very lengthy, nearly inscrutable patent instead of clearly laid out in a paper titled “Laser-annealing Josephson junctions for yielding scaled-up superconducting quantum processors”. Or why no concrete discussion of laser powers and energy flux exists. Another mysterious omission is the lack of any commentary on qubit coherence after the annealing process. We know that they use Ramsey fringes to determine the qubit frequencies, so the coherence can’t be zero, but is it impacted by the process at all?</p>
+<p>The rest of the paper is devoted to categorizing types of frequency collision and how they will impact the various available quantum processor architectures on the table. For a standard square lattice of qubits, even the improved laser-annealing process has poor frequency-collision free yield for 49 qubits (<span class="math inline">\(&lt;0.1\%\)</span>) and abysmal yield for a 97 qubit lattice (<span class="math inline">\(\ll0.1\%\)</span>). Modified lattices, shown in the supplementary text, have better yield. The lattices with largest code distances (<span class="math inline">\(&gt; 100\)</span> qubits) have yields in the <span class="math inline">\(6-8\%\)</span> range which suggests that it’ll take something like 10-20 chips to find one pristine candidate.</p>
+<p>According to the <a href="https://www.ibm.com/blogs/research/2020/09/ibm-quantum-roadmap/">IBM Quantum Roadmap</a>, we should expect to see the <span class="math inline">\(127\)</span> qubit heavy hexagon lattice debuted by 2021. By 2023, we should expect to see a <span class="math inline">\(1,000\)</span> qubit chip. Note that, for the heavy hexagon lattice, taking the code from <span class="math inline">\(65\)</span> to <span class="math inline">\(127\)</span> qubits caused a <span class="math inline">\(4\)</span>x reduction in expected collision free chip yield. The current state of laser-anneal frequency tuning simply cannot produce a collisionless <span class="math inline">\(1,000\)</span> qubit chip. Indeed, figure 4 in the paper shows that a <span class="math inline">\(1,000\)</span> qubit heavy hex processor will require a <span class="math inline">\(\sigma_f &lt; 10\)</span> MHz to have yields better than <span class="math inline">\(1\%\)</span>. That’s an additional <span class="math inline">\(30\%\)</span> reduction in frequency spread. The authors themselves estimate that they’ll need a 2x reduction in frequency spread to reliable achieve 1,000 qubit processors. They also point out that the precision of current laser-anneal technique is basically limited by the precision with which they can estimate the frequency of a transmon from its junction <span class="math inline">\(R_n\)</span>. It’s worth noting that they can set the value of junction <span class="math inline">\(R_n\)</span> with <span class="math inline">\(0.3\%\)</span> precision, which translates to <span class="math inline">\(0.15\%\)</span> precision in the qubit frequency. If that is the <em>only</em> source of error in the qubit frequencies (it’s not), then for a qubit with frequency tuned to be <span class="math inline">\(5.7\)</span> GHz, we would expect the frequency spread to be <span class="math inline">\(8\)</span> MHz. That happens to be the level of imprecision required to make the <span class="math inline">\(1,000\)</span> qubit processor at all feasible. The take-away for me is that, in order to move beyond <span class="math inline">\(1,000\)</span> qubits, IBM must demonstrate not only an improvement in qubit frequency prediction from <span class="math inline">\(R_n\)</span>, but also an improvement in the precision to which the <span class="math inline">\(R_n\)</span> can be tuned with the laser anneal.</p>
+<p>Overall, this is a cool paper describing the success of a precision qubit frequency tuning technique that doesn’t require any extra fabrication steps, and doesn’t require cryogenic temperatures to implement. The laser-anneal should enable IBM to produce chips with architectures up to <span class="math inline">\(100\)</span> qubits, but will need to improve the frequency precision by a factor of <span class="math inline">\(2\)</span> to get to <span class="math inline">\(1,000\)</span> qubits, which is the current fundamental limit of the technology. Not sure how they plan to get to <span class="math inline">\(1,000,000\)</span> qubits, but I guess we’ll find out in a few years.</p>
+
+</main>
+
+  <footer>
+  <script src="//yihui.org/js/math-code.js"></script>
+<script async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+  
+  </footer>
+  </body>
+</html>
+
